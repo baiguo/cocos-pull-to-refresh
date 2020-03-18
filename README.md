@@ -1,2 +1,3 @@
 # cocos-pull-to-refresh
-cocos封装的下拉刷新控件
+模仿微博下拉刷新工控
+cocos版本2.1.3
