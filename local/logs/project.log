@@ -1,70 +1,441 @@
-2020-03-18T02:04:42.922Z - normal: Load ~/.CocosCreator/settings.json
-2020-03-18T02:04:42.965Z - normal: Initializing Asset Database
-2020-03-18T02:04:42.967Z - normal: checking language setting...
-2020-03-18T02:04:42.967Z - normal: Language: zh
-2020-03-18T02:04:43.514Z - success: preview server running at http://localhost:7457
-2020-03-18T02:04:43.524Z - success: protocol editor-framework registered
-2020-03-18T02:04:43.524Z - success: protocol app registered
-2020-03-18T02:04:43.525Z - success: protocol theme registered
-2020-03-18T02:04:43.525Z - success: protocol packages registered
-2020-03-18T02:04:43.525Z - success: protocol uuid registerred
-2020-03-18T02:04:43.525Z - success: protocol db registerred
-2020-03-18T02:04:43.525Z - success: protocol thumbnail registerred
-2020-03-18T02:04:43.525Z - success: protocol unpack registerred
-2020-03-18T02:04:43.525Z - success: protocol disable-commonjs registerred
-2020-03-18T02:04:44.143Z - normal: connected!
-2020-03-18T02:04:44.144Z - normal: Check project /Users/caolei/Desktop/testgame001
-2020-03-18T02:04:44.149Z - normal: Initializing project /Users/caolei/Desktop/testgame001
-2020-03-18T02:04:44.427Z - normal: Initializing Cocos2d
-2020-03-18T02:04:45.117Z - normal: Initializing engine extends
-2020-03-18T02:04:45.156Z - success: alipay-adapter loaded
-2020-03-18T02:04:45.161Z - success: asset-db-debugger loaded
-2020-03-18T02:04:45.162Z - success: baidu-adapter loaded
-2020-03-18T02:04:45.164Z - success: color-picker loaded
-2020-03-18T02:04:45.285Z - success: fb-audience-network loaded
-2020-03-18T02:04:45.325Z - success: fb-live-stream loaded
-2020-03-18T02:04:45.328Z - success: google-play-instant loaded
-2020-03-18T02:04:45.334Z - success: huawei-runtime loaded
-2020-03-18T02:04:45.547Z - success: cpk-publish loaded
-2020-03-18T02:04:45.549Z - success: jsb-adapter loaded
-2020-03-18T02:04:45.557Z - success: oppo-runtime loaded
-2020-03-18T02:04:45.562Z - success: package-manager loaded
-2020-03-18T02:04:45.688Z - success: qqplay-adapter loaded
-2020-03-18T02:04:45.693Z - success: runtime-dev-tools loaded
-2020-03-18T02:04:45.700Z - success: sdkbox loaded
-2020-03-18T02:04:45.706Z - success: tester loaded
-2020-03-18T02:04:45.711Z - success: ui-kit-preview-extra loaded
-2020-03-18T02:04:45.716Z - success: ui-kit-preview loaded
-2020-03-18T02:04:45.727Z - success: ui-kit loaded
-2020-03-18T02:04:45.737Z - success: vivo-runtime loaded
-2020-03-18T02:04:45.738Z - success: weapp-adapter loaded
-2020-03-18T02:04:45.740Z - success: xiaomi-adapter loaded
-2020-03-18T02:04:45.743Z - success: alipay-minigame loaded
-2020-03-18T02:04:45.781Z - success: assets loaded
-2020-03-18T02:04:45.785Z - success: builder loaded
-2020-03-18T02:04:46.038Z - success: cocos-services loaded
-2020-03-18T02:04:46.043Z - success: console loaded
-2020-03-18T02:04:46.072Z - success: fb-instant-games loaded
-2020-03-18T02:04:46.075Z - success: game-window loaded
-2020-03-18T02:04:46.076Z - success: google-instant-games loaded
-2020-03-18T02:04:46.081Z - success: hierarchy loaded
-2020-03-18T02:04:46.085Z - success: inspector loaded
-2020-03-18T02:04:46.086Z - success: keystore loaded
-2020-03-18T02:04:46.091Z - success: node-library loaded
-2020-03-18T02:04:46.093Z - success: package-asset loaded
-2020-03-18T02:04:46.095Z - success: preferences loaded
-2020-03-18T02:04:46.098Z - success: project-exporter loaded
-2020-03-18T02:04:46.102Z - success: project-importer loaded
-2020-03-18T02:04:46.105Z - success: project-settings loaded
-2020-03-18T02:04:46.110Z - success: scene loaded
-2020-03-18T02:04:46.112Z - success: simulator-debugger loaded
-2020-03-18T02:04:46.113Z - success: sprite-editor loaded
-2020-03-18T02:04:46.116Z - success: store loaded
-2020-03-18T02:04:46.123Z - success: timeline loaded
-2020-03-18T02:04:46.127Z - success: xiaomi-runtime loaded
-2020-03-18T02:04:46.134Z - success: hot-update-tools loaded
-2020-03-18T02:04:49.281Z - info: Cocos Services load base data!
-2020-03-18T02:04:49.969Z - normal: Loading packages
-2020-03-18T02:04:49.975Z - normal: Watching packages
-2020-03-18T02:04:50.059Z - normal: Run Application
-2020-03-18T02:05:19.299Z - info: shutdown preview server
+2020-03-18T04:01:24.887Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-18T04:01:24.931Z - normal: Initializing Asset Database
+2020-03-18T04:01:24.933Z - normal: checking language setting...
+2020-03-18T04:01:24.933Z - normal: Language: zh
+2020-03-18T04:01:25.472Z - success: preview server running at http://localhost:7456
+2020-03-18T04:01:25.504Z - success: protocol editor-framework registered
+2020-03-18T04:01:25.504Z - success: protocol app registered
+2020-03-18T04:01:25.505Z - success: protocol theme registered
+2020-03-18T04:01:25.505Z - success: protocol packages registered
+2020-03-18T04:01:25.505Z - success: protocol uuid registerred
+2020-03-18T04:01:25.505Z - success: protocol db registerred
+2020-03-18T04:01:25.505Z - success: protocol thumbnail registerred
+2020-03-18T04:01:25.505Z - success: protocol unpack registerred
+2020-03-18T04:01:25.505Z - success: protocol disable-commonjs registerred
+2020-03-18T04:01:26.023Z - normal: connected!
+2020-03-18T04:01:26.024Z - normal: Check project /Users/caolei/Documents/rock/cocos-pull-to-refresh
+2020-03-18T04:01:26.026Z - normal: Initializing project /Users/caolei/Documents/rock/cocos-pull-to-refresh
+2020-03-18T04:01:26.327Z - normal: Initializing Cocos2d
+2020-03-18T04:01:26.987Z - normal: Initializing engine extends
+2020-03-18T04:01:27.031Z - success: alipay-adapter loaded
+2020-03-18T04:01:27.041Z - success: asset-db-debugger loaded
+2020-03-18T04:01:27.042Z - success: baidu-adapter loaded
+2020-03-18T04:01:27.043Z - success: color-picker loaded
+2020-03-18T04:01:27.159Z - success: fb-audience-network loaded
+2020-03-18T04:01:27.203Z - success: fb-live-stream loaded
+2020-03-18T04:01:27.206Z - success: google-play-instant loaded
+2020-03-18T04:01:27.212Z - success: huawei-runtime loaded
+2020-03-18T04:01:27.412Z - success: cpk-publish loaded
+2020-03-18T04:01:27.414Z - success: jsb-adapter loaded
+2020-03-18T04:01:27.420Z - success: oppo-runtime loaded
+2020-03-18T04:01:27.430Z - success: package-manager loaded
+2020-03-18T04:01:27.555Z - success: qqplay-adapter loaded
+2020-03-18T04:01:27.558Z - success: runtime-dev-tools loaded
+2020-03-18T04:01:27.569Z - success: sdkbox loaded
+2020-03-18T04:01:27.577Z - success: tester loaded
+2020-03-18T04:01:27.586Z - success: ui-kit-preview-extra loaded
+2020-03-18T04:01:27.595Z - success: ui-kit-preview loaded
+2020-03-18T04:01:27.609Z - success: ui-kit loaded
+2020-03-18T04:01:27.615Z - success: vivo-runtime loaded
+2020-03-18T04:01:27.616Z - success: weapp-adapter loaded
+2020-03-18T04:01:27.617Z - success: xiaomi-adapter loaded
+2020-03-18T04:01:27.620Z - success: alipay-minigame loaded
+2020-03-18T04:01:27.661Z - success: assets loaded
+2020-03-18T04:01:27.667Z - success: builder loaded
+2020-03-18T04:01:27.867Z - success: cocos-services loaded
+2020-03-18T04:01:27.883Z - success: console loaded
+2020-03-18T04:01:27.912Z - success: fb-instant-games loaded
+2020-03-18T04:01:27.919Z - success: game-window loaded
+2020-03-18T04:01:27.921Z - success: google-instant-games loaded
+2020-03-18T04:01:27.929Z - success: hierarchy loaded
+2020-03-18T04:01:27.937Z - success: inspector loaded
+2020-03-18T04:01:27.939Z - success: keystore loaded
+2020-03-18T04:01:27.947Z - success: node-library loaded
+2020-03-18T04:01:27.948Z - success: package-asset loaded
+2020-03-18T04:01:27.949Z - success: preferences loaded
+2020-03-18T04:01:27.957Z - success: project-exporter loaded
+2020-03-18T04:01:27.966Z - success: project-importer loaded
+2020-03-18T04:01:27.974Z - success: project-settings loaded
+2020-03-18T04:01:27.982Z - success: scene loaded
+2020-03-18T04:01:27.983Z - success: simulator-debugger loaded
+2020-03-18T04:01:27.984Z - success: sprite-editor loaded
+2020-03-18T04:01:27.993Z - success: store loaded
+2020-03-18T04:01:28.005Z - success: timeline loaded
+2020-03-18T04:01:28.009Z - success: xiaomi-runtime loaded
+2020-03-18T04:01:28.020Z - success: hot-update-tools loaded
+2020-03-18T04:01:31.191Z - info: Cocos Services load base data!
+2020-03-18T04:01:31.829Z - normal: Loading packages
+2020-03-18T04:01:31.833Z - normal: Watching packages
+2020-03-18T04:01:31.920Z - normal: Run Application
+2020-03-18T04:16:18.627Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.282Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.410Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.505Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.598Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.687Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.786Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:40.895Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:41.069Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:41.163Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:19:41.251Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:16.565Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:16.688Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:16.796Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:16.906Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.041Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.180Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.345Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.443Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.538Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.634Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:20:17.733Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.035Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.150Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.247Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.340Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.422Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.529Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.653Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.792Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:42.893Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:23:43.009Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:24:56.401Z - warn: [db-task][sync-changes] uuid collision, the uuid(e007c8ba-9c25-4f67-99b2-c5aade8afc1b) for /Users/caolei/Documents/rock/cocos-pull-to-refresh/assets/Script/course/scrollViewUpdateLogic.js is already used. A new uuid(76a55e4e-d2b0-4cdd-b177-8265df672883) will be assigned.
+2020-03-18T04:24:56.405Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/resources/homepage/homepage.meta
+2020-03-18T04:24:56.406Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/resources/homepage/texture/texture.meta
+2020-03-18T04:24:56.409Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/course/course.meta
+2020-03-18T04:24:57.042Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:25:11.732Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:26:46.995Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:26:52.771Z - warn: Script attached to "show" in prefab "show.prefab" is missing or invalid. Detailed information:
+Node path: "show"
+Asset url: "db://assets/show.prefab"
+Script UUID: "e007c8ba-9c25-4f67-99b2-c5aade8afc1b"
+Class ID: "e007ci6nCVPZ5myxareivwb"
+
+2020-03-18T04:26:52.803Z - warn: Script attached to "show" in prefab "show.prefab" is missing or invalid. Detailed information:
+Node path: "show"
+Asset url: "db://assets/show.prefab"
+Script UUID: "e007c8ba-9c25-4f67-99b2-c5aade8afc1b"
+Class ID: "e007ci6nCVPZ5myxareivwb"
+
+2020-03-18T04:27:28.862Z - info: 只有预制节点 "show" 及其子节点会被保存。
+2020-03-18T04:27:29.068Z - info: 只有预制节点 "show" 及其子节点会被保存。
+2020-03-18T04:27:46.542Z - info: 只有预制节点 "show" 及其子节点会被保存。
+2020-03-18T04:28:02.584Z - info: 只有预制节点 "show" 及其子节点会被保存。
+2020-03-18T04:28:02.790Z - info: 只有预制节点 "show" 及其子节点会被保存。
+2020-03-18T04:30:55.731Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:30:58.528Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:30:58.644Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:31:14.323Z - warn: The Asset used by component "cc.Sprite" in prefab "scrollView.prefab" is missing. Detailed information:
+Node path: "scrollView/view/content/banner"
+Asset url: "db://assets/scrollView.prefab"
+Missing uuid: "30054f15-c725-4553-918d-a691ae28f63c"
+
+2020-03-18T04:31:27.764Z - warn: The Prefab used by node "bar" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar/bar"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:31:49.046Z - warn: The Prefab used by node "bar" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar/bar"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:17.422Z - warn: The Prefab used by node "bar" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar/bar"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:20.974Z - warn: The Prefab used by node "bar" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar/bar"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.231Z - warn: The Asset used by node "bar" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar/bar"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.232Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.232Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.232Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.233Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.233Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.233Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.233Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.234Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.234Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.234Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.234Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.235Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.235Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.235Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.235Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.235Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.236Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.236Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.236Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.236Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.237Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.237Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.237Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.237Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.237Z - warn: The Asset used by component "cc.ScrollView" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.238Z - warn: The Asset used by node "scrollBar" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1/scrollBar"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
+2020-03-18T04:32:30.238Z - warn: The Asset used by node "scrollView1" in scene "testScene.fire" is missing. Detailed information:
+Node path: "Canvas/scrollView1"
+Asset url: "db://assets/testScene.fire"
+Missing uuid: "9df3ede9-a769-4b59-97e6-64674ea7c5ae"
+
