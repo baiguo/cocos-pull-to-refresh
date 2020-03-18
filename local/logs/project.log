@@ -1,0 +1,70 @@
+2020-03-18T02:04:42.922Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-18T02:04:42.965Z - normal: Initializing Asset Database
+2020-03-18T02:04:42.967Z - normal: checking language setting...
+2020-03-18T02:04:42.967Z - normal: Language: zh
+2020-03-18T02:04:43.514Z - success: preview server running at http://localhost:7457
+2020-03-18T02:04:43.524Z - success: protocol editor-framework registered
+2020-03-18T02:04:43.524Z - success: protocol app registered
+2020-03-18T02:04:43.525Z - success: protocol theme registered
+2020-03-18T02:04:43.525Z - success: protocol packages registered
+2020-03-18T02:04:43.525Z - success: protocol uuid registerred
+2020-03-18T02:04:43.525Z - success: protocol db registerred
+2020-03-18T02:04:43.525Z - success: protocol thumbnail registerred
+2020-03-18T02:04:43.525Z - success: protocol unpack registerred
+2020-03-18T02:04:43.525Z - success: protocol disable-commonjs registerred
+2020-03-18T02:04:44.143Z - normal: connected!
+2020-03-18T02:04:44.144Z - normal: Check project /Users/caolei/Desktop/testgame001
+2020-03-18T02:04:44.149Z - normal: Initializing project /Users/caolei/Desktop/testgame001
+2020-03-18T02:04:44.427Z - normal: Initializing Cocos2d
+2020-03-18T02:04:45.117Z - normal: Initializing engine extends
+2020-03-18T02:04:45.156Z - success: alipay-adapter loaded
+2020-03-18T02:04:45.161Z - success: asset-db-debugger loaded
+2020-03-18T02:04:45.162Z - success: baidu-adapter loaded
+2020-03-18T02:04:45.164Z - success: color-picker loaded
+2020-03-18T02:04:45.285Z - success: fb-audience-network loaded
+2020-03-18T02:04:45.325Z - success: fb-live-stream loaded
+2020-03-18T02:04:45.328Z - success: google-play-instant loaded
+2020-03-18T02:04:45.334Z - success: huawei-runtime loaded
+2020-03-18T02:04:45.547Z - success: cpk-publish loaded
+2020-03-18T02:04:45.549Z - success: jsb-adapter loaded
+2020-03-18T02:04:45.557Z - success: oppo-runtime loaded
+2020-03-18T02:04:45.562Z - success: package-manager loaded
+2020-03-18T02:04:45.688Z - success: qqplay-adapter loaded
+2020-03-18T02:04:45.693Z - success: runtime-dev-tools loaded
+2020-03-18T02:04:45.700Z - success: sdkbox loaded
+2020-03-18T02:04:45.706Z - success: tester loaded
+2020-03-18T02:04:45.711Z - success: ui-kit-preview-extra loaded
+2020-03-18T02:04:45.716Z - success: ui-kit-preview loaded
+2020-03-18T02:04:45.727Z - success: ui-kit loaded
+2020-03-18T02:04:45.737Z - success: vivo-runtime loaded
+2020-03-18T02:04:45.738Z - success: weapp-adapter loaded
+2020-03-18T02:04:45.740Z - success: xiaomi-adapter loaded
+2020-03-18T02:04:45.743Z - success: alipay-minigame loaded
+2020-03-18T02:04:45.781Z - success: assets loaded
+2020-03-18T02:04:45.785Z - success: builder loaded
+2020-03-18T02:04:46.038Z - success: cocos-services loaded
+2020-03-18T02:04:46.043Z - success: console loaded
+2020-03-18T02:04:46.072Z - success: fb-instant-games loaded
+2020-03-18T02:04:46.075Z - success: game-window loaded
+2020-03-18T02:04:46.076Z - success: google-instant-games loaded
+2020-03-18T02:04:46.081Z - success: hierarchy loaded
+2020-03-18T02:04:46.085Z - success: inspector loaded
+2020-03-18T02:04:46.086Z - success: keystore loaded
+2020-03-18T02:04:46.091Z - success: node-library loaded
+2020-03-18T02:04:46.093Z - success: package-asset loaded
+2020-03-18T02:04:46.095Z - success: preferences loaded
+2020-03-18T02:04:46.098Z - success: project-exporter loaded
+2020-03-18T02:04:46.102Z - success: project-importer loaded
+2020-03-18T02:04:46.105Z - success: project-settings loaded
+2020-03-18T02:04:46.110Z - success: scene loaded
+2020-03-18T02:04:46.112Z - success: simulator-debugger loaded
+2020-03-18T02:04:46.113Z - success: sprite-editor loaded
+2020-03-18T02:04:46.116Z - success: store loaded
+2020-03-18T02:04:46.123Z - success: timeline loaded
+2020-03-18T02:04:46.127Z - success: xiaomi-runtime loaded
+2020-03-18T02:04:46.134Z - success: hot-update-tools loaded
+2020-03-18T02:04:49.281Z - info: Cocos Services load base data!
+2020-03-18T02:04:49.969Z - normal: Loading packages
+2020-03-18T02:04:49.975Z - normal: Watching packages
+2020-03-18T02:04:50.059Z - normal: Run Application
+2020-03-18T02:05:19.299Z - info: shutdown preview server
